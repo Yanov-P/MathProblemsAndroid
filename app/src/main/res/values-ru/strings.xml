@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyStudyApplication</string>
+    <string name="pressed_text">Меня нажали</string>
+    <string name="send_ans_button_text">Пуш ми, ну че ты</string>
+    <string name="toast">маладес</string>
+    <string name="unpressed_text">Я не нажатая</string>
+</resources>

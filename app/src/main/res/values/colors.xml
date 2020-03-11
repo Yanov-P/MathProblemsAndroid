@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="neutral_marker">#A9A9A9</color>
+    <color name="correct_answered_marker">#399C00</color>
+    <color name="incorrect_answered_marker">#9C0609</color>
+    <color name="hinted_marker">#FFDD00</color>
+
+</resources>
