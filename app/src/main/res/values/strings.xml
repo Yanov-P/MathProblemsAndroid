@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">MyStudyApplication</string>
-    <string name="send_ans_button_text">Push Me</string>
+    <string name="send_ans_button_text">Send</string>
     <string name="pressed_text">I was pressed</string>
     <string name="unpressed_text">I wasn\'t pressed</string>
     <string name="toast">good boy</string>
@@ -11,6 +11,7 @@
     <string name="restart">Restart</string>
     <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis commodo dolor.</string>
     <string name="restart_hint">Press \"Back\" button to try again</string>
+    <string name="hintbtn">Hint</string>
 
 
 </resources>

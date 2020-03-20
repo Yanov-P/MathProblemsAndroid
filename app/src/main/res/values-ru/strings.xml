@@ -2,7 +2,14 @@
 <resources>
     <string name="app_name">MyStudyApplication</string>
     <string name="pressed_text">Меня нажали</string>
-    <string name="send_ans_button_text">Пуш ми, ну че ты</string>
+    <string name="send_ans_button_text">Отправить</string>
     <string name="toast">маладес</string>
     <string name="unpressed_text">Я не нажатая</string>
+    <string name="end_dialog_text">"Тест завершен! Результат "</string>
+    <string name="end_dialog_title">Тест завершен</string>
+    <string name="end_questions_message">"Тест завершен! Результат "</string>
+    <string name="hint">Первая цифра ответа</string>
+    <string name="restart">Заново</string>
+    <string name="restart_hint">Нажмите Назад, чтобы начать сначала</string>
+    <string name="hintbtn">Подсказка</string>
 </resources>
